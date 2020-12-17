@@ -1,9 +1,6 @@
 import becker.robots.*;
 
 /**
- * CS1A - Assignment 3 - "The Maze" <br>
- * Quarter: Fall 2020 <br>
- * <p>
  * In this program, a robot navigates the maze by feeling the right wall. The
  * robot will drop a Thing at every intersection it covers. If there already is
  * a Thing at an intersection it covers, the robot will not put down a Thing. If
